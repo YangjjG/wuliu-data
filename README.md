@@ -11,3 +11,9 @@
 3. 运行项目：`python src/main.py`
 
 ## 目录结构
+wuliu-data/
+├── data/
+│   └── orders.csv
+├── src/
+│   └── main.py
+└── README.md
